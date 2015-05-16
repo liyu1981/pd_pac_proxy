@@ -1,0 +1,22 @@
+{
+  "name": "pd_pac_proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liyu1981/pd_pac_proxy.git"
+  },
+  "author": "Yu LI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liyu1981/pd_pac_proxy/issues"
+  },
+  "homepage": "https://github.com/liyu1981/pd_pac_proxy",
+  "dependencies": {
+    "http-proxy": "^1.11.1"
+  }
+}
